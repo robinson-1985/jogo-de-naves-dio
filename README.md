@@ -6,7 +6,7 @@ Uma das dificuldades dos desenvolvedores de jogos é encontrar uma plataforma de
 
 > Esse é o repositório do projeto, na qual vamos fazer um joguinho de space shooter super legal!
  
-> Não deixem de conferir essa super aula em com o expertise da Digital Innovation One: [Denilson Bonatti](https://web.digitalinnovation.one/project/construindo-o-seu-primeiro-jogo-de-naves/learning/96be068d-622b-4c3b-b226-481a37cf6a89?back=/track/javascript-game-developer)
+> Não deixem de conferir essa super aula com o expertise da Digital Innovation One: [Denilson Bonatti](https://web.digitalinnovation.one/project/construindo-o-seu-primeiro-jogo-de-naves/learning/96be068d-622b-4c3b-b226-481a37cf6a89?back=/track/javascript-game-developer)
 
 ### Referências
 
